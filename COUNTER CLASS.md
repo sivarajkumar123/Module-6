@@ -30,6 +30,7 @@ To write a Python program to create a `Counter` class that can increment the val
 ```
 
 ### OUTPUT
-
+![image](https://github.com/user-attachments/assets/ea0ab937-b18e-4b43-923a-593e05b6bb96)
 
 ### RESULT
+Thus the python program to create a Counter class that can increment the value of a counter has been implemented successfully.
