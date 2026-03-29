@@ -32,8 +32,9 @@ To write a Python program to create a class `Student` with the private members `
 ```
 
 ### OUTPUT
+![image](https://github.com/user-attachments/assets/897320d0-7411-4309-ad37-97d5b54a46a9)
 
 
 ### RESULT
 
-
+Thus the python program to create a class Student with the private members name and age, and add getter and setter methods has been executed
