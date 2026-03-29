@@ -40,5 +40,8 @@ To write a Python program to define the abstract base class named `Polygon` and 
 
 ### OUTPUT
 
+![image](https://github.com/user-attachments/assets/b5f44db6-ffe7-4c27-a5e0-a25a88bd9d21)
+
 
 ### RESULT
+Thus the Python program to define the abstract base class named Polygon and also define the abstract method. This base class is inherited by various subclasses. Implement the abstract method in each subclass. Create objects of the subclasses and invoke the sides() method was implemented and executed successfully.
