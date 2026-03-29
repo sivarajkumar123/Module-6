@@ -39,5 +39,7 @@ To write a Python program to create a Parent class `Bird` and inherit two child 
 
 ### OUTPUT
 
+![image](https://github.com/user-attachments/assets/a99f4657-9839-44d6-be9a-27aa4a669763)
 
 ### RESULT
+Thus the python program to create a Parent class Bird and inherit two child classes has been implemented successfully.
